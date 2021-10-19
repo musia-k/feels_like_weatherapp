@@ -1,0 +1,317 @@
+.block .container{
+    max-height: 812px !important;
+    max-width: 375px !important;
+    border: 1px solid black;
+    border-radius: 0px;
+    width: 375px;
+    height: 812px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+.block .container .row_1 img{
+    max-width: 376px !important;
+    padding-right: 0px;
+    width: 376px;
+    max-height: 662px !important;
+    mix-blend-mode:normal;
+    position: absolute;
+}
+
+.block .container .row{
+    margin-left: 13px;
+    text-align: center;
+    background-color: #6EC6D6;
+    margin-right: 10px;
+    margin-top: 111px;
+    border-radius: 30px;
+    width: 348px;
+    max-height: 631px;
+    margin-bottom: 70px;
+    position: absolute;
+}
+.block .container .row .time{
+    width: 65px;
+    height: 23px;
+    margin-left: 142px;
+    margin-top: 7px;
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+    letter-spacing: 1px;
+
+}
+.block .container .row .container{
+    width: 350px;
+    height: 588px;
+    left: 22px;
+    margin-top: 145,59px;
+    border: 9px solid #6EC6D6;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border-radius: 30px; 
+    
+}
+.block .container .row .container h1{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Lighter;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    color: #000000;
+
+    width: 65px;
+    height: 23px;
+    margin-left: 121px;
+    margin-top: 11px;
+    letter-spacing: 1px;
+
+}
+.block .container .row .container img{
+    width: 87px;
+    height: 87px;
+    margin-left: -120px;
+    top: 219px;
+}
+
+.block .container .row .container .temp{
+    position: absolute;
+    width: 137px;
+    height: 105px;
+    left: 171px;
+    top: 100px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 90px;
+    line-height: 105px;
+    
+    color: #000000;
+}
+   
+.block .container .row .container .summary{
+    position: absolute;
+    width: 86px;
+    height: 23px;
+    left: 132px;
+    top: 210px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+}
+.block .container .row .container .group1{
+    position: absolute;
+    width: 58px;
+    height: 35px;
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+}  
+.timesunrise{
+    position: absolute;
+    width: 58px;
+    height: 35px;
+    left: 22px;
+    top: 95px;
+}
+.timesunset{
+    position: absolute;
+    width: 58px;
+    height: 35px;
+    left: 186px;
+    top: 95px;
+}
+.line1{
+    position: absolute;
+    width: 17px;
+    height: 0px;
+    left: 162px;
+    top: 125px;
+
+    border: 0.5px solid #6EC6D6;
+    transform: rotate(90deg);
+}
+.number{
+    position: absolute;
+    width: 56px;
+    height: 35px;
+    left: 22px;
+    top: 170px;
+}
+.number2{
+    position: absolute;
+    width: 56px;
+    height: 35px;
+    left: 186px;
+    top: 170px;
+}
+.line2{
+    position: absolute;
+    width: 17px;
+    height: 0px;
+    left: 162px;
+    top: 200px;
+
+    border: 0.5px solid #6EC6D6;
+    transform: rotate(90deg);
+}
+.number3{
+    position: absolute;
+    width: 117px;
+    height: 35px;
+    left: 18px;
+    top: 240px;
+}
+.number4{
+    position: absolute;
+    width: 29px;
+    height: 35px;
+    left: 186px;
+    top: 240px;
+}
+.line3{
+    position: absolute;
+    width: 17px;
+    height: 0px;
+    left: 162px;
+    top: 270px;
+
+    border: 0.5px solid #6EC6D6;
+    transform: rotate(90deg);
+}
+.number5{
+    position: absolute;
+    width: 117px;
+    height: 245px;
+    left: 4px;
+    top: 320px;
+}
+.number6{
+    position: absolute;
+    width: 17px;
+    height: 35px;
+    left: 186px;
+    top: 320px;
+}
+.line4{
+    position: absolute; 
+    width: 17px;
+    height: 0px;
+    left: 162px;
+    top: 350px;
+
+    border: 0.5px solid #6EC6D6;
+    transform: rotate(90deg);
+}
+.group2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: #000000;
+    opacity: 0.6;
+}
+.group2 .type1{
+    position: absolute;
+    width: 44px;
+    height: 15px;
+    left: 31px;
+    top: 320px; 
+}
+.group2 .type2{
+    position: absolute;
+    width: 44px;
+    height: 15px;
+    left: 195px;
+    top: 320px; 
+}
+.type3{
+    position: absolute;
+    width: 52px;
+    height: 15px;
+    left: 31px;
+    top: 395px;
+}
+.type4{
+    position: absolute;
+    width: 100px;
+    height: 15px;
+    left: 195px;
+    top: 395px;
+}
+.type5{
+    position: absolute;
+    width: 30px;
+    height: 15px;
+    left: 31px;
+    top: 465px;
+}
+.type6{
+    position: absolute;
+    width: 47px;
+    height: 15px;
+    left: 195px;
+    top: 465px;
+}
+.type7{
+    position: absolute;
+    width: 49px;
+    height: 15px;
+    left: 31px;
+    top: 545px;
+}
+.type8{
+    position: absolute;
+    width: 70px;
+    height: 15px;
+    left: 190px;
+    top: 545px;
+}
+.fas fa-chevron-circle-up{
+    background-color: #6EC6D6;
+    position: absolute;
+    width: 67px;
+    height: 64px;
+    left: 154px;
+    top: 699px;
+}
+.narrow{
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    left: 145px;
+    top: 585px;   
+    color: #FFFFFF;
+    background-color: #6EC6D6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
