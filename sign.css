@@ -1,0 +1,130 @@
+.block .container{
+    max-height: 812px !important;
+    max-width: 375px !important;
+    border: 6px solid black;
+    border-radius: 15px;
+    width: 375px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.block .container .row_1 img{
+    max-width: 375px !important;
+    padding-right: 10px;
+    width: 375px;
+    max-height: 397px !important;
+    mix-blend-mode: multiply;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 50px;
+    z-index:-1;
+    position: relative;
+}
+.block .container .row{
+    margin-left: 23px;
+    text-align: center;
+    background-color: #D6F9FF;
+    left: 31px;
+    top: 254px;
+    border-radius: 38px;
+    max-width: 313px;
+    max-height: 476px ;
+    height: 476px;
+    margin-top: -100px;
+    margin-bottom: 50px;
+}
+
+.block .container .row .container{
+    border-radius: 38px;
+    background: #FFFFFF;
+    border: 1px solid #6EC6D6;
+    box-sizing: border-box;
+    width: 296px;
+    max-height: 476px;
+    left: 40px;
+    top: 264px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ label[for="name"]{
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    margin-left: -150px; 
+    margin-top: 58px;
+}
+
+label[for="password"]{
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    margin-left: -185px; 
+}
+label[for="password_conf"]{
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    margin-left: -143px; 
+}
+
+input[type=text], input[type=password] {   
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 254px;
+    height: 30px;
+    background: #D6F9FF;
+    border: 1px solid #D6F9FF;
+    box-sizing: border-box;
+    border-radius: 30px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-right: 50px;
+    padding-left: 20px;
+}
+.block .container .row .container .row_3 a[type="1"]{
+    color: #000000;
+    font-size: 9px;
+    padding-right: 99px !important;
+    padding-left: 6px;
+    
+}
+.block .container .row .container .row_3 a{
+    color: #000000;
+    font-size: 9px; 
+}
+.block .container .row .container .row_3{
+    margin-top: -20px;
+}
+.block .container .row .container button{    
+    background: #6EC6D6;
+    color: black;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: bold;
+    width: 213px;
+    height: 38px;
+    left: 78px;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 30px;
+    border: 1px solid #6EC6D6;
+    margin-top: 35px;
+}
+
+.block .container .row .container p{
+    color: #000000;
+    opacity: 0.6;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    font-family: 'Montserrat',sans-serif;
+    margin-top: 23px;
+}
+.row_5 a[type="2"]{
+    margin-right: 36px;
+}
