@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/weather-icons.min.css" />
+    <link rel="stylesheet" href="css/weather-icons-wind.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <div class="container">
+      <div class="app">
+        <div class="header">
+          <img src="imgs/Lapland.jpg" alt="">
+          <span class="city">
+           Lapland, Finland
+            <i class="fa fa-map-marker"></i>
+            <span class="today">Today</span>
+          </span>
+          <span class="weather">
+            <span class="temp">
+              -4<sup>&deg;</sup>
+              <span class="unit">c</span>
+            </span>
+            <span class="wind-scale">
+              <table>
+                <tr>
+                  <td>Wind Direction</td>
+                  <td>
+                    <i class="wi wi-wind towards-45-deg"></i>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Wind</td>
+                  <td>
+                    <i class="wi wi-wind-beaufort-7"></i>
+                  </td>
+                </tr>
+              </table>
+            </span>
+            <i class="wi wi-day-snow"></i>
+            <span class="time">
+              <i class="wi wi-time-3"></i>
+            </span>
+            <span class="day">Sunday</span>
+          </span>
+        </div>
+        <div class="body">
+          <span class="title">Weather for the week</span>
+          <div class="graph">
+            <ul>
+              <li class="graph-knob-mt-26">
+                <span class="graph-temp">
+                  <i class="wi wi-night-snow"></i>
+                  1<sup>&deg;</sup>
+                </span>
+                Mon
+              </li>
+              <li class="graph-knob-mt-25">
+                <span class="graph-temp">
+                  <i class="wi wi-night-snow"></i>
+                  4<sup>&deg;</sup>
+                </span>
+                Tue
+              </li>
+              <li class="graph-knob-mt-28">
+                <span class="graph-temp">
+                  <i class="wi wi-night-snow"></i>
+                  -3<sup>&deg;</sup>
+                </span>
+                Wed
+              </li>
+              <li class="graph-knob-mt-22">
+                <span class="graph-temp">
+                  <i class="wi wi-night-snow"></i>
+                  -1<sup>&deg;</sup>
+                </span>
+                Thu
+              </li>
+              <li class="graph-knob-mt-20">
+                <span class="graph-temp">
+                  <i class="wi wi-night-snow"></i>
+                  0<sup>&deg;</sup>
+                </span>
+                Fri
+              </li>
+              <li class="graph-knob-mt-18">
+                <span class="graph-temp">
+                  <i class="wi wi-snow"></i>
+                  -6<sup>&deg;</sup>
+                </span>
+                Sat
+              </li>
+            </ul>
+          </div>
+        </div>
+		  <div class="footer">
+          <span class="title">next days other cities</span>
+          <ul class="friends">
+            <li>
+              <img src="imgs/Rovaniemi.jpg" alt="">
+              </span>
+              <span class="detail">
+              Oulu
+                <span class="city">
+                  Finland
+                </span>
+                <span class="country">
+                </span>
+              </span>
+            </li>
+            <li>
+              <img src="imgs/lahti.jpg" alt="">
+              </span>
+              <span class="detail">
+               Lahti
+                <span class="city">
+                  Finland
+                </span>
+                <span class="country">
+                </span>
+              </span>
+            </li>
+            <li>
+              <img src="imgs/helsinki.jpg" alt="">
+              </span>
+              <span class="detail">
+                Helsinki
+                <span class="city">
+                  Finland
+                </span>
+                <span class="country">
+                </span>
+              </span>
+            </li>
+            <li>
+              <img src="imgs/Oulu.jpg" alt="">
+              </span>
+              <span class="detail">
+                rovaniemi
+                <span class="city">
+                  Finland
+                </span>
+                <span class="country">
+                </span>
+              </span>
+            </li> 
+          </ul>
+        </div>
+      </div>
+    </div>
+</body>
+</html>
