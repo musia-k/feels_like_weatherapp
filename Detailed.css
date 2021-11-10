@@ -297,16 +297,18 @@
     left: 154px;
     top: 699px;
 }
-.button{
-    color:#FFFFFF;
-    width: 67px;
+.narrow{
+    width: 64px;
     height: 64px;
     left: 154px;
     margin-top: 395px;
     border-radius: 50px;
-    background: #6EC6D6;
-    border: 1px solid #6EC6D6;
-}
+   background-color: #6EC6D6;
+   color:#FFFFFF;
+   border: 1px solid #6EC6D6;
+   
+   
+}   
 
 
 
