@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1937984D-B6A0-4E5E-9FA4-2E94DD5FDD7C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication5/Weatherapp.aspx">
+    <Files>
+      <File FileName="WebApplication5/Weatherapp.aspx" Line="1" Column="120" />
+      <File FileName="WebApplication5/StyleSheet1.css" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication5" expanded="True">
+            <Node name="WebApplication5" expanded="True">
+              <Node name="Weatherapp.aspx" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApplication5 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
