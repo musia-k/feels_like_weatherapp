@@ -1,0 +1,413 @@
+.block{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.block .container{
+    align-items: center;
+    max-height: 812px !important;
+    max-width: 375px !important;
+    border: 6px solid black;
+    width: 375px;
+    height: 812px; 
+    border-radius: 15px;
+}
+.block .container .row_1 img{
+    max-width: 376px !important;
+    padding-right: 0px;
+    width: 376px;
+    max-height: 662px !important;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+} 
+.block .container .ROW_1 .search{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    margin-left: 310px;
+    top: 35px;
+    border-radius: 50%;
+    background:#93DFED;
+    border:1px solid #6EC6D6
+}
+.block .container .ROW_1 .search img{
+    width: 26.25px;
+    height: 26.25px;
+    top:21.25px;
+}
+
+.block .container .row{
+    position: absolute;
+    width: 245px;
+    height: 260px;
+    margin-left: 18px;
+    top: 82px;
+    background: #FFFCFC;
+    border-radius: 30px;
+}
+.block .container .row h1{
+    width: 89px;
+    height: 47px;
+    margin-left: 45px;
+    margin-top: 22px;
+    letter-spacing: 1px;
+    position: absolute;  
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Lighter;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    color: #000000;
+    letter-spacing: 1px;
+}
+.block .container .row_2 img{
+    position: absolute;
+    width: 87px;
+    height: 87px;
+    left: 7px;
+    top: 84px;
+}
+.block .container .row_2 .temp{
+    position: absolute;
+    width: 137px;
+    height: 105px;
+    left: 99px;
+    top: 82px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 90px;
+    line-height: 105px;
+    color: #000000;
+} 
+.block .container .day{
+    position: absolute;
+    width: 41px;
+    height: 18px;
+    left: 34px;
+    top: 170px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000; 
+}
+.block .container .date{
+    position: absolute;
+    width: 72px;
+    height: 18px;
+    left: 20px;
+    top: 198px;
+
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+    letter-spacing: 1px;
+}
+.block .container .feellike{
+    position: absolute;
+    width: 120px;
+    height: 28px;   
+    left: 123px;
+    top: 190px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+.block .container .ROW .more{
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    margin-left: 161px;
+    top: 525px;
+    
+    background: #6EC6D6;
+}
+.block .container .ROW .more img{
+    width: 25.5px;
+    height: 15.75px;
+    top:21.25px;
+}
+.block .container .row_3 .weekday .first{
+    position: absolute;
+    width: 55px;
+    height: 14px;
+    margin-left: 28px;
+    margin-top: 35px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;  
+    color: #000000;
+}
+.block .container .row_3 .weekday .second{ 
+    position: absolute; 
+    width: 55px;
+    height: 14px;
+    margin-left: 87px;
+    margin-top: 35px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;  
+    color: #000000;
+}
+.block .container .row_3 .weekday .third{ 
+    position: absolute; 
+    width: 55px;
+    height: 14px;
+    margin-left: 157px;
+    margin-top: 35px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;  
+    color: #000000;
+}
+.block .container .row_3 .weekday .fourth{ 
+    position: absolute; 
+    width: 55px;
+    height: 14px;
+    margin-left: 236px;
+    margin-top: 35px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;  
+    color: #000000;
+}
+.block .container .row_3 .weekday .fifth{ 
+    position: absolute; 
+    width: 55px;
+    height: 14px;
+    margin-left: 313px;
+    margin-top: 35px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;  
+    color: #000000;
+}
+.block .container .row_4{
+    position: absolute;
+    width: 54px;
+    height: 103px;
+    margin-left: 18px;
+    top: 615px;
+
+    background: #FFFFFF;
+    border: 2px solid #6EC6D6;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.block .container .row_4 img{
+    width: 31px;
+    height: 31px;
+    margin-left: 11px;
+    margin-top: 22px;
+}
+.block .container .row_4 .temp{
+    position: absolute;
+    width: 23px;
+    height: 18px;
+    left: 16px;
+    margin-top: 64px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+.block .container .row_5{
+    position: absolute;
+    width: 54px;
+    height: 103px;
+    margin-left: 88px;
+    top: 615px;
+
+    background: #FFFFFF;
+    border: 2px solid #6EC6D6;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.block .container .row_5 img{
+    width: 31px;
+    height: 31px;
+    margin-left: 11px;
+    margin-top: 22px;
+}
+.block .container .row_5 .temp{
+    position: absolute;
+    width: 23px;
+    height: 18px;
+    left: 16px;
+    margin-top: 64px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+.block .container .row_6{
+    position: absolute;
+    width: 54px;
+    height: 103px;
+    margin-left: 160px;
+    top: 615px;
+
+    background: #FFFFFF;
+    border: 2px solid #6EC6D6;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.block .container .row_6 img{
+    width: 31px;
+    height: 31px;
+    margin-left: 11px;
+    margin-top: 22px;
+}
+.block .container .row_6 .temp{
+    position: absolute;
+    width: 23px;
+    height: 18px;
+    left: 16px;
+    margin-top: 64px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+.block .container .row_7{
+    position: absolute;
+    width: 54px;
+    height: 103px;
+    margin-left: 234px;
+    top: 615px;
+
+    background: #FFFFFF;
+    border: 2px solid #6EC6D6;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.block .container .row_7 img{
+    width: 31px;
+    height: 31px;
+    margin-left: 11px;
+    margin-top: 22px;
+}
+.block .container .row_7 .temp{
+    position: absolute;
+    width: 23px;
+    height: 18px;
+    left: 16px;
+    margin-top: 64px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+.block .container .row_8{
+    position: absolute;
+    width: 54px;
+    height: 103px;
+    margin-left: 303px;
+    top: 615px;
+
+    background: #FFFFFF;
+    border: 2px solid #6EC6D6;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.block .container .row_8 img{
+    width: 31px;
+    height: 31px;
+    margin-left: 11px;
+    margin-top: 22px;
+}
+.block .container .row_8 .temp{
+    position: absolute;
+    width: 23px;
+    height: 18px;
+    left: 20px;
+    margin-top: 64px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+.block .container .more{
+    position: absolute;
+    width: 260px;
+    height: 38px;
+    margin-left: 60px;
+    top: 747px;
+
+    background: #93DFED;
+    border-radius: 30px;
+    border: 1px solid #93DFED;
+    
+}
+.block .container .more .days{
+    position: absolute;
+    width: 111px;
+    height: 18px;
+    left: 74px;
+    margin-top: -10px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+}
+.block .container .more .nextpage{
+    position:absolute;
+    width: 29px;
+    height: 29px;
+    left: 203px;
+    margin-top: -12px;
+}
+
+
+
+
+
+
