@@ -20,20 +20,22 @@
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
 } 
-.block .container .ROW_1 .search{
+.block .container .back_to img{
     position: absolute;
-    width: 45px;
-    height: 45px;
-    margin-left: 310px;
+    max-width: 14px!important;;
+    max-height: 28px !important;
+    z-index: 1;
+    margin-left: 19.5px;
     top: 35px;
-    border-radius: 50%;
-    background:#93DFED;
-    border:1px solid #6EC6D6
 }
-.block .container .ROW_1 .search img{
-    width: 26.25px;
-    height: 26.25px;
-    top:21.25px;
+
+.block .container .search img{
+    position: absolute;
+    max-width: 30px!important;;
+    max-height: 30px !important;
+    z-index: 1;
+    margin-left: 320px;
+    top: 35px;
 }
 
 .block .container .row{
