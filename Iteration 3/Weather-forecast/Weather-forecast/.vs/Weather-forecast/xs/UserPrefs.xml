@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B2D071B5-8A40-46EB-A3CF-F9A1D06690E0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Default.aspx">
+    <Files>
+      <File FileName="Default.aspx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Weather-forecast" expanded="True">
+            <Node name="Weather-forecast" expanded="True">
+              <Node name="Default.aspx" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Weather-forecast PreferredExecutionTarget="/Applications/Opera GX.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

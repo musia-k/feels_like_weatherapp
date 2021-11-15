@@ -1,0 +1,17 @@
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/bin/Debug/COVID-19.Tests.dll
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/bin/Debug/COVID-19.Tests.pdb
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/bin/Debug/Newtonsoft.Json.dll
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/bin/Debug/nunit.framework.dll
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/bin/Debug/System.Net.Http.Formatting.dll
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/bin/Debug/System.Web.Http.dll
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/bin/Debug/System.Web.Http.WebHost.dll
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/bin/Debug/nunit.framework.xml
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/bin/Debug/Newtonsoft.Json.xml
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/bin/Debug/System.Net.Http.Formatting.xml
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/bin/Debug/System.Web.Http.xml
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/bin/Debug/System.Web.Http.WebHost.xml
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/obj/Debug/Weather-forecast.Tests.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/obj/Debug/Weather-forecast.Tests.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/obj/Debug/Weather-forecast.Tests.csproj.CopyComplete
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/obj/Debug/COVID-19.Tests.dll
+/Users/macbook/Desktop/Weather-forecast/COVID-19.Tests/obj/Debug/COVID-19.Tests.pdb

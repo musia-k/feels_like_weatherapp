@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B2D071B5-8A40-46EB-A3CF-F9A1D06690E0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Weather-forecast/Default.aspx">
+    <Files>
+      <File FileName="Weather-forecast/Default.aspx" Line="12" Column="79" />
+      <File FileName="Weather-forecast/Default.aspx.cs" />
+      <File FileName="Weather-forecast/Default.aspx.designer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Weather-forecast" expanded="True" selected="True">
+            <Node name="Weather-forecast" expanded="True">
+              <Node name="Default.aspx" expanded="True" />
+            </Node>
+            <Node name="Weather-forecast.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>COVID-19.Tests/Weather-forecast.Tests.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.Weather-forecast PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

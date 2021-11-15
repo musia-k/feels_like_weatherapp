@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B2D071B5-8A40-46EB-A3CF-F9A1D06690E0}|">
+  <MonoDevelop.Ide.ItemProperties.COVID-19.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="COVID-19/Default.aspx">
+    <Files>
+      <File FileName="COVID-19/Default.aspx" Line="80" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="COVID-19" expanded="True">
+            <Node name="COVID-19" expanded="True">
+              <Node name="Default.aspx" selected="True" />
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+            <Node name="COVID-19.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.COVID-19 PreferredExecutionTarget="/Applications/Opera GX.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

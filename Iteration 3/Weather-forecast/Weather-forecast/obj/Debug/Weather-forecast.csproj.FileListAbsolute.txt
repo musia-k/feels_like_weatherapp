@@ -1,0 +1,18 @@
+/Users/macbook/Desktop/COVID-19 2/COVID-19/bin/COVID-19.dll
+/Users/macbook/Desktop/COVID-19 2/COVID-19/bin/COVID-19.pdb
+/Users/macbook/Desktop/COVID-19 2/COVID-19/obj/Debug/Weather-forecast.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/COVID-19 2/COVID-19/obj/Debug/COVID-19.dll
+/Users/macbook/Desktop/COVID-19 2/COVID-19/obj/Debug/COVID-19.pdb
+/Users/macbook/Desktop/COVID-19 2/COVID-19/obj/Debug/Weather-forecast.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/Weather-forecast/Weather-forecast/obj/Debug/Weather-forecast.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/Weather-forecast/Weather-forecast/obj/Debug/Weather-forecast.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Weather-forecast/Weather-forecast/bin/Weather-forecast.dll
+/Users/macbook/Desktop/Weather-forecast/Weather-forecast/bin/Weather-forecast.pdb
+/Users/macbook/Desktop/Weather-forecast/Weather-forecast/obj/Debug/Weather-forecast.dll
+/Users/macbook/Desktop/Weather-forecast/Weather-forecast/obj/Debug/Weather-forecast.pdb
+/Users/hiennguyen/Downloads/Weather-forecast/Weather-forecast/bin/Weather-forecast.dll
+/Users/hiennguyen/Downloads/Weather-forecast/Weather-forecast/bin/Weather-forecast.pdb
+/Users/hiennguyen/Downloads/Weather-forecast/Weather-forecast/obj/Debug/Weather-forecast.csproj.AssemblyReference.cache
+/Users/hiennguyen/Downloads/Weather-forecast/Weather-forecast/obj/Debug/Weather-forecast.csproj.CoreCompileInputs.cache
+/Users/hiennguyen/Downloads/Weather-forecast/Weather-forecast/obj/Debug/Weather-forecast.dll
+/Users/hiennguyen/Downloads/Weather-forecast/Weather-forecast/obj/Debug/Weather-forecast.pdb
